@@ -8,8 +8,8 @@ import Home from "./page";
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Alaa Taha Dev",
-  description: "Alaa Taha Dev",
+  title: "Doctor Duaa",
+  description: "Doctor Duaa",
 };
 
 export default function RootLayout({ children }) {
